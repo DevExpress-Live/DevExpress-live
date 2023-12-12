@@ -6,5 +6,5 @@
 
 ---
 
-![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=devexpress-live&show_icons=true&theme=transparent&line_height=24&card_width=410)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devexpress-live&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=360)
+![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExpress-Live&show_icons=true&theme=transparent&line_height=24&card_width=410)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevExpress-Live&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=360)
