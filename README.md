@@ -1,8 +1,8 @@
 # DevExpress Live Stream Demos
 
-### All demo projects from [DevExpress](https://devexpress.com) live events will appear here. 
+### All demo projects from [DevExpress](https://devexpress.com) live streams will appear here. 
 
-#### Watch devexpress live on [Twitch](https://twitch.tv/devexpressofficial) and [YouTube](https://www.youtube.com/@DeveloperExpress/streams).
+#### Watch DevExpress live on [Twitch](https://twitch.tv/devexpressofficial) and [YouTube](https://www.youtube.com/@DeveloperExpress/streams).
 
 ---
 
