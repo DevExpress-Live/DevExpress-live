@@ -4,6 +4,8 @@
 
 #### Watch DevExpress live on [Twitch](https://twitch.tv/devexpressofficial) and [YouTube](https://www.youtube.com/@DeveloperExpress/streams).
 
+#### Questions regarding DevExpress live streams can be directed to stream@devexpress.com
+
 ---
 
 ![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=DevExpress-Live&show_icons=true&theme=transparent&line_height=24&card_width=410)
